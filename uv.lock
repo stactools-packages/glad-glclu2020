@@ -2489,7 +2489,7 @@ wheels = [
 
 [[package]]
 name = "stactools-glad-glclu2020"
-version = "0.1.0"
+version = "0.1.1"
 source = { editable = "." }
 dependencies = [
     { name = "parse" },
@@ -2532,7 +2532,7 @@ requires-dist = [
     { name = "parse", specifier = ">=1.20.2" },
     { name = "pre-commit", marker = "extra == 'dev'", specifier = "~=4.0" },
     { name = "pystac", specifier = ">=1.11.0,<2.0.0" },
-    { name = "pystac", marker = "extra == 'docs'", specifier = "~=1.10" },
+    { name = "pystac", marker = "extra == 'docs'", specifier = "~=1.11" },
     { name = "pytest", marker = "extra == 'dev'", specifier = "~=8.2" },
     { name = "pytest-cov", marker = "extra == 'dev'", specifier = "~=6.0" },
     { name = "python-slugify", specifier = ">=8.0.4" },

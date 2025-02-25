@@ -20,8 +20,6 @@
   - [`glad-glclu2020-change-v2`](https://radiantearth.github.io/stac-browser/#/external/raw.githubusercontent.com/stactools-packages/glad-glclu2020/main/examples/glad-glclu2020-change-v2/collection.json)
 - [Browse a notebook demonstrating the example item and collection](https://github.com/stactools-packages/glad-glclu2020/tree/main/docs/example.ipynb)
 
-A short description of the package and its usage.
-
 ## STAC examples
 
 - [Collection](https://github.com/stactools-packages/glad-glclu2020/blob/main/examples/glad-glclu2020-v2/collection.json)
